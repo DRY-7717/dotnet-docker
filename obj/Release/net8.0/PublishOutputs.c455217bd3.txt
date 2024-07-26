@@ -1,0 +1,7 @@
+/home/mms2024/work/asp-docker/published/asp-docker
+/home/mms2024/work/asp-docker/published/appsettings.Development.json
+/home/mms2024/work/asp-docker/published/appsettings.json
+/home/mms2024/work/asp-docker/published/asp-docker.dll
+/home/mms2024/work/asp-docker/published/asp-docker.deps.json
+/home/mms2024/work/asp-docker/published/asp-docker.runtimeconfig.json
+/home/mms2024/work/asp-docker/published/asp-docker.pdb
