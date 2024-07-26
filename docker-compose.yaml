@@ -1,0 +1,9 @@
+services:
+  aspdocker:
+    container_name: aspdotnet_container
+    image: aspdocker
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
